@@ -1,3 +1,5 @@
+package codingPractice;
+
 import java.util.Scanner;
 
 public class Num_occurance {
